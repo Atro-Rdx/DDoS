@@ -156,7 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🚨 Legal Notice
 
 By using this software, you agree to:
-- Use it any on systems youy want
+- Use it any on systems you want
 - Accept full responsibility for your actions
 - Comply with all applicable laws and regulations
 
