@@ -412,7 +412,7 @@ class ServerExterminator:
 def main():
     if len(sys.argv) != 2:
         print("Usage: python3 exterminator.py <target_ip>")
-        print("Example: python3 exterminator.py 185.182.187.197")
+        print("Example: python3 exterminator.py 185.***.187.197")
         sys.exit(1)
     
     target_ip = sys.argv[1]
