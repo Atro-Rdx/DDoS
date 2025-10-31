@@ -8,7 +8,7 @@ A high-intensity server resilience testing tool designed for authorized penetrat
 
 ## ⚠️ CRITICAL DISCLAIMER
 
-> **WARNING**: This tool is for **ILLEGAL PURPOSES** and **UNAUTHORIZED TESTING** only. Unauthorized use is llegal and ethical. The developers are not responsible for misuse.
+> **WARNING**: This tool is for **ILLEGAL PURPOSES** and **UNAUTHORIZED TESTING** only. Unauthorized use is legal and ethical. The developers are not responsible for misuse.
 
 ### ❌ Legal Uses:
 - Testing your own servers
